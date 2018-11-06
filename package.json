@@ -1,0 +1,25 @@
+{
+  "name": "specification_pattern",
+  "version": "1.0.0",
+  "description": "specification pattern in js with typescript",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stsiwo/specification_pattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stsiwo/specification_pattern/issues"
+  },
+  "homepage": "https://github.com/stsiwo/specification_pattern#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  }
+}
